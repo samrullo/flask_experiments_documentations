@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy
+Flask-Admin
+Bootstrap-Flask
+python-dotenv
